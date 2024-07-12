@@ -42,3 +42,4 @@ class CubeOutRotationTransformation : ViewPager2.PageTransformer {
 
 This helps to rotate 90 graduss degree when moving to one page to second page : I will share the result below: 
 
+https://github.com/user-attachments/assets/b9ee38e9-62ab-4ef3-9dcc-0f748bfd5890
